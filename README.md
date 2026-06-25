@@ -11,4 +11,3 @@ While I am studying DSA with C++.
 - `volume-of-sphere.cpp` - Takes radius as input and calculates volume of sphere.
 - `square-number.cpp` - Takes input of a floating place data type and prints its sqaure.
 - `simple-interest.cpp` - Calculates simple interest by taking various inputs.
-- 

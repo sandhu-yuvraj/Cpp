@@ -13,6 +13,7 @@ While I am studying DSA with C++.
 - `helloworld.cpp` - Basic Hello World programme.
 - `integer.cpp` - Checks whether the floating place value entered is an integer or not.
 - `parity.cpp` - Finds the parity (odd/even) of an integer.
+- `profit-loss.cpp` - Calculates and prints profit or loss.
 - `simple-interest.cpp` - Calculates simple interest and amount to be paid back by taking various inputs.
 - `square-number.cpp` - Takes input of a floating place data type and prints its sqaure.
 - `volume-of-sphere.cpp` - Takes radius as input and calculates volume of sphere.

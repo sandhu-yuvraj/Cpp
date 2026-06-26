@@ -12,5 +12,5 @@ int main()
     float simple_interest = (p * r * t) / 100;
     float sum = p + simple_interest ;
     cout << "Simple Interest is: " << simple_interest << endl;
-    cout << "Amount to be paid back is: "<< sum << endl:
+    cout << "Amount to be paid back is: "<< sum << endl;
 }

@@ -6,8 +6,8 @@ These are my first C++ programmes.
 While I am studying DSA with C++.
 
 ## Files
-- `helloworld.cpp` - Basic Hello World programme.
 - `area-of-circle.cpp` - Takes radius as input and calculates area of circle.
-- `volume-of-sphere.cpp` - Takes radius as input and calculates volume of sphere.
-- `square-number.cpp` - Takes input of a floating place data type and prints its sqaure.
+- `helloworld.cpp` - Basic Hello World programme.
 - `simple-interest.cpp` - Calculates simple interest by taking various inputs.
+- `square-number.cpp` - Takes input of a floating place data type and prints its sqaure.
+- `volume-of-sphere.cpp` - Takes radius as input and calculates volume of sphere.

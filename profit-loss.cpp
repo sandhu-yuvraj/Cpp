@@ -8,5 +8,5 @@ int main(){
     cin>> s;
     if (s > c) cout<< "Profit: " << s - c;
     else if (c > s) cout<< "Loss: " << c - s;
-    else cout<< "No Profit No Loss";
+    else cout<< "No Profit, No Loss";
 }

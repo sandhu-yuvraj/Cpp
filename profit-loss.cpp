@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    int c, s;
+    float c, s;
     cout << "Enter the cost price of the item: ";
     cin>> c;
     cout << "Enter the selling price of the item: ";

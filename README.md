@@ -8,6 +8,7 @@ While I am studying DSA with C++.
 ## Files
 - `absolute-value.cpp` - Prints absolute value of a number.
 - `area-of-circle.cpp` - Takes radius as input and calculates area of circle.
+- `divisible5.cpp` - Tests the divisibility of a number with 5.
 - `driving.cpp` - Checks the eligibility whether a person can drive in India based on age.
 - `helloworld.cpp` - Basic Hello World programme.
 - `integer.cpp` - Checks whether the floating place value entered is an integer or not.

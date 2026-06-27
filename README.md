@@ -18,5 +18,5 @@ While I am studying DSA with C++.
 - `rectangle.cpp` - Calculates and compares area and perimeter of a rectangle.
 - `simple-interest.cpp` - Calculates simple interest and amount to be paid back by taking various inputs.
 - `square-number.cpp` - Takes input of a floating place data type and prints its sqaure.
-- `triangle.cpp` - Tests the existence of a triangle.
+- `triangle.cpp` - Tests the existence of a triangle and prints its type.
 - `volume-of-sphere.cpp` - Takes radius as input and calculates volume of sphere.

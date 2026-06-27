@@ -10,6 +10,10 @@ int main() {
     cin>> c;
     if (a + b > c && a + c > b && b + c > a) {
         cout<< "The triangle is valid." << endl;
+        if (a==b && b==c) cout<<"Triangle is equilateral"<<endl;
+        else if (a==b || b==c || a==c) cout<<"Triangle is isosceles"<<endl;
+        else cout<<"Triangle is scalene"<<endl;
+
     } else {
         cout<< "The triangle is not valid." << endl;
     }

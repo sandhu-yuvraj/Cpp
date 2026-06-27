@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int a, b, c;
+    float a, b, c;
     cout<< "Enter first side of triangle: ";
     cin>> a;
     cout<< "Enter second side of triangle: ";

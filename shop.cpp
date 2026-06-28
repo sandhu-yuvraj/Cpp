@@ -6,18 +6,18 @@
 using namespace std;
 
 int main() {
-    double markedPrice, discountPercent, salesTaxPercent;
+    double m, d, t;
     cout << "Enter the marked price: ";
-    cin >> markedPrice;
+    cin >> m;
     cout << "Enter the discount percentage: ";
-    cin >> discountPercent;
+    cin >> d;
     cout << "Enter the sales tax percentage: ";
-    cin >> salesTaxPercent;
+    cin >> t;
 
-    double discountedPrice = markedPrice - (markedPrice * discountPercent / 100);
-    double finalSellingPrice = discountedPrice + (discountedPrice * salesTaxPercent / 100);
+    double dp = m - (m * d / 100);
+    double sp = dp * (1 + t / 100);
 
-    cout << "The final selling price is: $" << finalSellingPrice << endl;
+    cout << "The final selling price is: $" << sp << endl;
 
     return 0;
 }

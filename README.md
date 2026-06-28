@@ -8,6 +8,7 @@ While I am studying DSA with C++.
 ## Files
 - `absolute-value.cpp` - Prints absolute value of a number.
 - `area-of-circle.cpp` - Takes radius as input and calculates area of circle.
+- `ceiling-div.cpp` - Prints ceiling division of two integers.
 - `compare-nos.cpp` - Takes three numbers as input and tells the largest and smallest of them.
 - `coordinate.cpp` - Tells where the point lies in coordinate plane.
 - `divisible5.cpp` - Tests the divisibility of a number with 5.

@@ -15,6 +15,7 @@ While I am studying DSA with C++.
 - `driving.cpp` - Checks the eligibility whether a person can drive in India based on age.
 - `helloworld.cpp` - Basic Hello World programme.
 - `integer.cpp` - Checks whether the floating place value entered is an integer or not.
+- `ke.cpp` - Calculates Kinetic Energy of a moving body.
 - `max-min.cpp` - Displays extreme values of various data types.
 - `parity.cpp` - Finds the parity (odd/even) of an integer.
 - `profit-loss.cpp` - Calculates and prints profit or loss.

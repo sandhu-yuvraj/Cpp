@@ -9,6 +9,7 @@ While I am studying DSA with C++.
 - `absolute-value.cpp` - Prints absolute value of a number.
 - `area-of-circle.cpp` - Takes radius as input and calculates area of circle.
 - `compare-nos.cpp` - Takes three numbers as input and tells the largest and smallest of them.
+- `coordinate.cpp` - Tells where the point lies in coordinate plane.
 - `divisible5.cpp` - Tests the divisibility of a number with 5.
 - `driving.cpp` - Checks the eligibility whether a person can drive in India based on age.
 - `helloworld.cpp` - Basic Hello World programme.

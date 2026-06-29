@@ -16,6 +16,7 @@ While I am studying DSA with C++.
 - `helloworld.cpp` - Basic Hello World programme.
 - `integer.cpp` - Checks whether the floating place value entered is an integer or not.
 - `ke.cpp` - Calculates Kinetic Energy of a moving body.
+- `leap-year.cpp` - Identifies leap year based on input.
 - `max-min.cpp` - Displays extreme values of various data types.
 - `parity.cpp` - Finds the parity (odd/even) of an integer.
 - `profit-loss.cpp` - Calculates and prints profit or loss.
@@ -23,6 +24,6 @@ While I am studying DSA with C++.
 - `shop.cpp` - Shop Billing Program.
 - `simple-interest.cpp` - Calculates simple interest and amount to be paid back by taking various inputs.
 - `square-number.cpp` - Takes input of a floating place data type and prints its sqaure.
-- `switch-month` - Takes number of month as input as in Gregorian Calendar and prints month name using Switch Case.
+- `switch-month.cpp` - Takes number of month as input as in Gregorian Calendar and prints month name using Switch Case.
 - `triangle.cpp` - Tests the existence of a triangle and prints its type.
 - `volume-of-sphere.cpp` - Takes radius as input and calculates volume of sphere.

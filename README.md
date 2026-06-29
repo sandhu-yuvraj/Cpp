@@ -14,6 +14,7 @@ While I am studying DSA with C++.
 - `coordinate.cpp` - Tells where the point lies in coordinate plane.
 - `divisible5.cpp` - Tests the divisibility of a number with 5.
 - `driving.cpp` - Checks the eligibility whether a person can drive in India based on age.
+- `electric-bill.cpp` - Electric Bill Multi-Tier Grid Pricing software.
 - `helloworld.cpp` - Basic Hello World programme.
 - `integer.cpp` - Checks whether the floating place value entered is an integer or not.
 - `ke.cpp` - Calculates Kinetic Energy of a moving body.

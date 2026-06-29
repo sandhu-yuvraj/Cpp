@@ -23,5 +23,6 @@ While I am studying DSA with C++.
 - `shop.cpp` - Shop Billing Program.
 - `simple-interest.cpp` - Calculates simple interest and amount to be paid back by taking various inputs.
 - `square-number.cpp` - Takes input of a floating place data type and prints its sqaure.
+- `switch-month` - Takes number of month as input as in Gregorian Calendar and prints month name using Switch Case.
 - `triangle.cpp` - Tests the existence of a triangle and prints its type.
 - `volume-of-sphere.cpp` - Takes radius as input and calculates volume of sphere.

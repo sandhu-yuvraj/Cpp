@@ -13,21 +13,23 @@ int main()
     cout<<"Enter number of units: ";
     cin>>units;
 
-    if (units<= 100) 
+    if (units<= 100 && units>=0) 
     { float bill = units*1.5 ;
       float total =  bill*1.15 ;
      cout<<"Total Bill to be paid is: $"<<total; 
     }
-    else if ( units <=300) 
+    else if ( units <=300 && units>= 0) 
     {
         float bill = ((units-100)*2.5 + (100*1.5));
         float total = bill*1.15 ;
         cout<<"Total Bill to be paid is: $"<<total;
     }
-    else if( units>=300)
+    else if( units>=300 && units>=0)
     {
         float bill = (1.5*100 + 2.5*200 + (units-300)*4) ;
         float total = bill*1.15 ;
         cout<<"Total Bill to be paid is: $"<<total;
     }
+    else cout<<"Invalid Input" ;
+    return 0;
 }

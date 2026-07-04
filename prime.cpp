@@ -13,7 +13,7 @@ int main()
    else
    {
         bool Prime= true;
-         for(int i = 2 ; i<=n-1; i++)
+         for(int i = 2 ; i<=n-1; i++) //OR i<= n/2 can also work , since minimum multiple is of 2
          {
             if (n%i == 0)  {Prime = false; break;}
          } 

@@ -23,6 +23,7 @@ Elementary C++ Programs
 - `leap-year.cpp` - Identifies leap year based on input.
 - `max-min.cpp` - Displays extreme values of various data types.
 - `parity.cpp` - Finds the parity (odd/even) of an integer.
+- `prime.cpp` - Finds if a number is prime or not.
 - `profit-loss.cpp` - Calculates and prints profit or loss.
 - `rectangle.cpp` - Calculates and compares area and perimeter of a rectangle.
 - `shop.cpp` - Shop Billing Program.

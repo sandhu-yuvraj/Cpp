@@ -16,6 +16,7 @@ Elementary C++ Programs
 - `divisible5.cpp` - Tests the divisibility of a number with 5.
 - `driving.cpp` - Checks the eligibility whether a person can drive in India based on age.
 - `electric-bill.cpp` - Electric Bill Multi-Tier Grid Pricing software.
+- `factor.cpp` - Factorises a number.
 - `gp.cpp` - Program to write desired Geometric Progression along with nth term and sum.
 - `helloworld.cpp` - Basic Hello World programme.
 - `integer.cpp` - Checks whether the floating place value entered is an integer or not.

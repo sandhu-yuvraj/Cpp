@@ -6,7 +6,7 @@ int main (){
     int n;
     cout<<"Enter a number: ";
     cin>>n;
-    if (n==0) cout<<0;
+    if (n==0) cout<<"Reversed number is: "<<0;
     else{
         int rev=0;
         while(n!=0){

@@ -7,6 +7,10 @@ int main(){
     cin>>number;
     int sum = 0;
     int digit = 0;
+    if (number==0) {
+        digit = 1;
+        sum = 0;
+    }
     while (number != 0)
     {
         sum = sum + number%10;

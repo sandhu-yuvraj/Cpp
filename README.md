@@ -27,6 +27,7 @@ Elementary C++ Programs
 - `prime.cpp` - Finds if a number is prime or not.
 - `profit-loss.cpp` - Calculates and prints profit or loss.
 - `rectangle.cpp` - Calculates and compares area and perimeter of a rectangle.
+- `reverse.cpp` - Reverses a number as given in input.
 - `shop.cpp` - Shop Billing Program.
 - `simple-interest.cpp` - Calculates simple interest and amount to be paid back by taking various inputs.
 - `square-number.cpp` - Takes input of a floating place data type and prints its sqaure.

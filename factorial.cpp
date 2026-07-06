@@ -2,6 +2,7 @@
 // Factorial of n is denoted as n! = n * (n-1) * (n-2) * ... * 2 * 1
 // Factorial of 0 is defined as 1 (0! = 1)
 // Factorial is only defined for whole numbers (non-negative integers).
+// Asked in interview of various companies like Morgan Stanley, Samsung and Wipro.
 #include <iostream>
 using namespace std;
 int main()

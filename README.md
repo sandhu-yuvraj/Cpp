@@ -24,6 +24,7 @@ Elementary C++ Programs
 - `ke.cpp` - Calculates Kinetic Energy of a moving body.
 - `leap-year.cpp` - Identifies leap year based on input.
 - `max-min.cpp` - Displays extreme values of various data types.
+- `multiplyDigits.cpp` - Takes input of an integer and prints the product of its digits.
 - `parity.cpp` - Finds the parity (odd/even) of an integer.
 - `prime.cpp` - Finds if a number is prime or not.
 - `profit-loss.cpp` - Calculates and prints profit or loss.

@@ -1,5 +1,5 @@
 // This program prints Fibonacci Sequence upto n terms.
-// Its a famous mathematical pattern where each number is the sum of the preceding ones.
+// Its a famous mathematical pattern where each number is the sum of the preceding two numbers.
 // Formula: Fn = Fn-1 + Fn-2
 // First two number are F0 = 0 and F1 = 1
 // It creates an infinte series.

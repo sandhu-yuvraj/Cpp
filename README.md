@@ -26,6 +26,7 @@ Elementary C++ Programs
 - `max-min.cpp` - Displays extreme values of various data types.
 - `multiplyDigits.cpp` - Takes input of an integer and prints the product of its digits.
 - `parity.cpp` - Finds the parity (odd/even) of an integer.
+- `perfectNumber.cpp` - Determines when the number entered is perfect or not.
 - `prime.cpp` - Finds if a number is prime or not.
 - `profit-loss.cpp` - Calculates and prints profit or loss.
 - `rectangle.cpp` - Calculates and compares area and perimeter of a rectangle.

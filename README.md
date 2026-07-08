@@ -18,6 +18,7 @@ Elementary C++ Programs
 - `electric-bill.cpp` - Electric Bill Multi-Tier Grid Pricing software.
 - `factor.cpp` - Factorises a number.
 - `factorial.cpp` - Calculates factorial of a number.
+- `fibonacci.cpp` - Prints Fibonacci Series till n terms.
 - `gp.cpp` - Program to write desired Geometric Progression along with nth term and sum.
 - `helloworld.cpp` - Basic Hello World programme.
 - `integer.cpp` - Checks whether the floating place value entered is an integer or not.

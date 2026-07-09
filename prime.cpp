@@ -1,7 +1,8 @@
 /*Checks if a number is prime or composite
   Prime number: Number is which is only divisble by 1 or itself
   Composite number: Number which has multiple(s) other than 1 and itself
-  Negative integers, 0 and 1 can not be classfied as prime or composite*/
+  Negative integers, 0 and 1 can not be classfied as prime or composite.
+  Asked in Amazon, SAP Labs, VMWare */
 #include <iostream>
 using namespace std;
 int main()

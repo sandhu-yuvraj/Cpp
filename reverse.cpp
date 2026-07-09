@@ -1,5 +1,7 @@
 // Takes a number as input
 // Reverses it
+// Esential concept
+// Concept used in interview questions of Walmart, MakeMyTrip etc.
 #include <iostream>
 using namespace std;
 int main (){

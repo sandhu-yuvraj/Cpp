@@ -4,6 +4,7 @@
 // First two number are F0 = 0 and F1 = 1
 // It creates an infinte series.
 // Used frequently in DSA, like fibonacci heaps.
+// Asked in Amazon, Microsoft, OYO, MakeMyTrip, Snapdeal, Goldman Sachs, Adobe etc.
 #include <iostream>
 using namespace std;
 int main (){
@@ -17,4 +18,6 @@ int main (){
         a=b;
         b=c;
     }
+    cout<<endl;
+    cout<<"nth term of Fibonacci: "<<b-a<<endl;
 }

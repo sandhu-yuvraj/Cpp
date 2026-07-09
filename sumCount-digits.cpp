@@ -1,4 +1,5 @@
 // Takes integral number as input and adds and counts its digits
+// Asked in interview of Ameyo and various others.
 #include <iostream>
 using namespace std;
 int main(){

@@ -2,6 +2,7 @@
 // Reverses it
 // Esential concept
 // Concept used in interview questions of Walmart, MakeMyTrip etc.
+// Asked directly in Zoho.
 #include <iostream>
 using namespace std;
 int main (){

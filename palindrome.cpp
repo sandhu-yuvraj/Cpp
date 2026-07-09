@@ -1,5 +1,7 @@
 // A palindrome number reads same forward and backward.
 // This program tests if a number is palindrome or not.
+// Using reverse of a number.
+// Asked in interview of Zoho, Samsung, Oracle, Adobe etc.
 #include <iostream>
 using namespace std;
 int main() {

@@ -26,6 +26,7 @@ Elementary C++ Programs
 - `leap-year.cpp` - Identifies leap year based on input.
 - `max-min.cpp` - Displays extreme values of various data types.
 - `multiplyDigits.cpp` - Takes input of an integer and prints the product of its digits.
+- `nCr-nPr.cpp` - Calculates nCr and nPr using given inputs by user.
 - `palindrome.cpp` - Determines if the number entered is a palindrome or not.
 - `parity.cpp` - Finds the parity (odd/even) of an integer.
 - `perfectNumber.cpp` - Determines when the number entered is perfect or not.

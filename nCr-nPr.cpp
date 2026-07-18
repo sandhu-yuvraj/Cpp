@@ -20,7 +20,7 @@ int main (){
     cout<<"Enter r: ";
     cin>>r;
     int c = fact(n)/(fact(r) * fact(n-r)) ;
-    int p = fact(n)/fact(n-r);
+    int p = fact(n)/fact(n-r);    // OR p = c * fact(r);
     cout<<"nCr: "<<c<<endl;
     cout<<"nPr: "<<p;
     return 0;
